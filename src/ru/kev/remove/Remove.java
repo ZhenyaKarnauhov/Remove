@@ -28,5 +28,6 @@ public class Remove {
             c++;
         }
         return newArray;
+
     }
 }
